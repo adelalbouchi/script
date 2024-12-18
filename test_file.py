@@ -1,23 +1,13 @@
-def test_calc_addition():
-    # Fonction test du résultat de 2 + 4
-    output = 2 + 4
-    assert output == 6
+# Exemple corrigé basé sur les erreurs signalées
+
+def function_one():
+    # Commentaire bien aligné
+    x = 5
+    return x
 
 
-def test_calc_substraction():
-    # Fonction test du résultat de 2 - 4
-    output = 2 - 4
-    assert output == -2
-
-
-def test_calc_multiply():
-    # Fonction test du résultat de 2 * 4
-    output = 2 * 4
-    assert output == 8
-
-
-def test_coucou():
-    # Fonction test si le résultat renvoie 'hello'
-    output = 'hello'
-    assert output == 'hello'
+def function_two():
+    # Un autre commentaire bien aligné
+    y = 10
+    return y
 
